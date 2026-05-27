@@ -11,7 +11,7 @@
 ![Jorge Miguel Aviles Status do GitHub](https://github-readme-stats.vercel.app/api?username=Jorgemiguelaviles&show_icons=true&theme=radical)
 
 ### Línguas mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemiguelaviles&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemiguelaviles&layout=compact&theme=radical)
 
 ## Tecnologias do meu dia a dia
 <div style='display: inline_block'>
